@@ -14,7 +14,8 @@ Built to demonstrate basic NLP logic and text matching.
 1. Install Python 3
 2. Download or clone the repository
 3. Run in terminal:
-4. python main.py
+ 
+python main.py
 
 ## Example Output
 You: hi  
@@ -30,6 +31,13 @@ Bot: Goodbye!
 - `main.py` — main chatbot logic  
 - `requirements.txt` — dependencies  
 - `README.md` — documentation
+
+## Future Improvements
+- Add NLP using spaCy or NLTK
+- Train model for better responses
+- Add GUI using Tkinter or Streamlit
+- Deploy on web using Flask
+
 
 ## Author
 Aditi Pradip Shamkuwar
