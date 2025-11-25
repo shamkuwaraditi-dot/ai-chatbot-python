@@ -14,6 +14,7 @@ Built to demonstrate basic NLP logic and text matching.
 1. Install Python 3
 2. Download or clone the repository
 3. Run in terminal:
+4. python main.py
 
 ## Example Output
 You: hi  
