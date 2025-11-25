@@ -1,0 +1,5 @@
+# No external libraries required
+##
+Requirements
+This project uses only standard Python libraries, so no extra installations are required.
+random
