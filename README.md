@@ -1,10 +1,11 @@
-# ai-chatbot-python
-A simple chatbot project in python ## Example Output
+A simple chatbot project in python  
+
+## Example Output
 You: hi  
-Bot: Hello!  
+Bot: Hello!
 
 You: how are you  
-Bot: I'm doing great!  
+Bot: I'm doing great!
 
 You: bye  
 Bot: Goodbye!
